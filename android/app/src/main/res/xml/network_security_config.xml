@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- API фільтрів на сервері: лише всередині WireGuard-тунелю -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">10.8.1.4</domain>
+    </domain-config>
+</network-security-config>

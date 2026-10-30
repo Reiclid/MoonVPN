@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- oklch(0.13 0.012 255) -->
+    <color name="void_silk">#0A0D12</color>
+</resources>
